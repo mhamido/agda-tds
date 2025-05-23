@@ -1,2 +1,4 @@
 *.agdai
 MAlonzo/**
+dist-*/
+.DS_Store
